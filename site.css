@@ -6,7 +6,8 @@
           }
 
 #icon     {   
-          background-image:url(images1.jpg); 
+          background-image:url(images1.jpg);
+          background-color:#000;
           width:150px; 
           height:150px; 
           background-repeat:no-repeat; 
